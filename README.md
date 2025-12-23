@@ -1,12 +1,7 @@
 # Python
 
-This repository documents my journey of revisiting Python fundamentals
-with clean examples, notes, and interview-ready code.
+TThis repository contains my personal Python notes and examples.
 
-## Structure
-- basics/ → core Python concepts
-- data_structures/ → lists, dicts, sets
-- practice/ → problems & solutions
+I am using this space to document Python in a simple and clear way, exactly how I understand it. The intention is to keep everything written down so I can come back anytime — months or years later — and quickly refresh my knowledge.
 
-## Goal
-Build strong Python fundamentals and write clean, Pythonic code.
+This is not meant to be fancy, fast, or exhaustive. It is meant to be useful, honest, and long-term.
