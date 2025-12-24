@@ -198,7 +198,7 @@ This modifies the original list.
 
 ---
 
-## Copying Lists (Very Important)
+## Copying Lists
 
 ```python
 a = [1, 2, 3]

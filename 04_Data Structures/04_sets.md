@@ -96,7 +96,7 @@ Choose `discard` when safety matters.
 
 ---
 
-## Membership Testing (VERY IMPORTANT)
+## Membership Testing
 
 Set membership is **extremely fast**.
 

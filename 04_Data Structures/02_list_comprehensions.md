@@ -99,7 +99,7 @@ Important:
 
 ---
 
-## 5. Nested List Comprehensions (Use Carefully)
+## 5. Nested List Comprehensions
 
 ### Flatten a 2D list
 

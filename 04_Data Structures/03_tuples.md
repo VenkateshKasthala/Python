@@ -17,7 +17,7 @@ names = ("Alice", "Bob", "Alice")
 
 ---
 
-## Tuple vs List (Core Difference)
+## Tuple vs List
 
 | Feature     | List            | Tuple           |
 | ----------- | --------------- | --------------- |

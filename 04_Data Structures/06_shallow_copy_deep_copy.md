@@ -1,5 +1,5 @@
 # Assignment vs Shallow Copy vs Deep Copy
-s
+
 ---
 
 ## 1. Core Rule (Memorize This)
@@ -278,7 +278,7 @@ Same `id` → same object.
 
 ---
 
-## 5. When to Use What (Industry Checklist)
+## 5. When to Use What
 
 ### Use Assignment when:
 
@@ -305,4 +305,3 @@ Assignment   → same box, same items
 Shallow copy → new box, same items
 Deep copy    → new box, new items
 ```
-

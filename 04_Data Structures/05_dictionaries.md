@@ -269,7 +269,7 @@ For nested dictionaries/lists, shallow copy is not enough.
 
 ---
 
-## Performance Notes (High Level)
+## Performance Notes 
 
 * Lookup by key is **O(1)** average
 * Insert is **O(1)** average
@@ -292,4 +292,3 @@ For nested dictionaries/lists, shallow copy is not enough.
 * `.get()` and `.items()` are common patterns
 * dict comprehensions improve clarity when simple
 * understanding hashing and mutability prevents bugs
-
